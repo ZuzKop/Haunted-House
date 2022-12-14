@@ -1,0 +1,13 @@
+tab = home map with ghost counters
+ui
+ghost ai (walking)
+ghost heartbeats when theyre close (theyre sloow)
+aktywowanie gry poprzez ppm (a nie spacje)
+win condition
+rozmieszczenie duchów
+
+random ghost spawning
+dywaniki
+walk bump of hands
+3d hands model
+house polish (wall colors, wooden floor, lighting)
